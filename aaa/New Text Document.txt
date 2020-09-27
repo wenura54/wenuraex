@@ -1,0 +1,15 @@
+1)php
+c/xamp/htdocx/create folder/savname.php
+xamp(apache on,msql on)localhost/foldername/filename
+2)
+jsp
+newproject-javaant-javaweb-webapplication-glasfish-04.1.1
+folder name-new-jsp-filename.jsp
+browser-run icon-inurl-filename.jsp
+
+3)
+php-subline save as .html
+
+4)
+git hub 
+code gahapn
